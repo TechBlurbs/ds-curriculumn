@@ -20,7 +20,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
             <td>2 Weeks</td>
             <td>Introduction to data science principles</td>
             <td>Introductory data science concpts, software engineering principles and python programming</td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>3 Weeks</td>
@@ -52,7 +52,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
                     </li>
                 </ul>
             </td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>3 Weeks</td>
@@ -68,7 +68,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
                     <li>Introduction to machine learning</li>
                 </ul>
             </td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>3 Weeks</td>
@@ -82,7 +82,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
                     <li>Deep learning</li>
                 </ul>
             </td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>3 Weeks</td>
@@ -96,7 +96,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
                     <li>Introduction to NoSQL</li>
                 </ul>
             </td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
         <tr>
             <td>3 Weeks</td>
@@ -109,7 +109,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
                     <li>Introduction to GCP</li>
                 </ul>
             </td>
-            <td></td>
+            <td>Coming Soon</td>
         </tr>
     </tbody>
 </table>
