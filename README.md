@@ -58,7 +58,7 @@ Data Science is an interdisplinary field that deploys algorithms, and other scie
             <td>3 Weeks</td>
             <td>Scientific computing & Quantitative methods</td>
             <td>
-                Learn the fundamentals of  probability thery like combination and permutations
+                Learn the fundamentals of  probability theory like combination and permutations
                 <ul>
                     <li>Introduction to statistics</li>
                     <li>Introduction to probability</li>
